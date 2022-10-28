@@ -1,0 +1,13 @@
+.sidebarOption {
+    cursor: pointer;   
+}
+
+.sidebarOption:hover {
+    background-color: #e8f5fe;
+    border-radius: 30px;    
+    transition: color 100s ease-out;
+}
+
+.sidebarOption > .sidebarStack {
+    padding: 20px;
+}
