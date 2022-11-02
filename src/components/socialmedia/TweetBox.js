@@ -182,12 +182,12 @@ function TweetBox() {
                 )}
           <Field name="post" placeholder="Type your tweet" />
         </div>
-        <Field
+        {/* <Field
           className="tweetBox__imageInput"
           name="image"
           placeholder="Optional: Enter image URL"
           type="text"
-        />
+        /> */}
         <Box
           m={1}
           //margin
